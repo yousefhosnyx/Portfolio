@@ -578,6 +578,11 @@ ul {
   color: #4c6ef5;
   transition: 0.5s;
 }
+.fa-github:hover {
+  content: "";
+  color: white;
+  transition: 0.5s;
+}
 .copy-write {
   color: rgb(197, 197, 197);
   min-width: 100%;
