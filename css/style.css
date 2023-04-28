@@ -81,15 +81,13 @@ ul {
 .header .container .logo {
   color: black;
   font-weight: bold;
-  font-size: 26px;
+  font-size: 28px;
   height: 65px;
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
   letter-spacing: -1px;
-  animation: changing-color 3s forwards infinite;
-  transition: 2s;
 }
 .header .container .logo:hover {
   color: white;
