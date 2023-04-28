@@ -89,6 +89,7 @@ ul {
   font-family: sans-serif;
   letter-spacing: -1px;
   animation: changing-color 3s forwards infinite;
+  transition: 2s;
 }
 .header .container .logo:hover {
   color: white;
