@@ -502,7 +502,6 @@ ul {
   padding: 3px 0px;
   list-style: disc;
   color: #c4531f;
-  min-width:fit-content;
 }
 /* Small */
 @media (max-width: 767px) {
