@@ -81,7 +81,7 @@ ul {
 .header .container .logo {
   color: black;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 27px;
   height: 65px;
   display: flex;
   justify-content: center;
@@ -611,7 +611,7 @@ ul {
 }
 /* End Contact */
 /* Start Animation */
-@keyframes changing-color {
+/* @keyframes changing-color {
   0%,
   10%,
   20%,
@@ -627,7 +627,7 @@ ul {
   100% {
     color: black;
   }
-}
+} */
 /* End Animation */
 
 /* Start Project */
