@@ -88,7 +88,7 @@ ul {
   align-items: center;
   font-family: sans-serif;
   letter-spacing: -1px;
-/*   animation: changing-color 1s forwards infinite; */
+  animation: changing-color 3s forwards infinite;
 }
 .header .container .logo:hover {
   color: white;
